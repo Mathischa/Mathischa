@@ -1,7 +1,7 @@
 <h1 align="center">Mathis Chatillon</h1>
 
 <p align="center">
-  Étudiant en M2 Finance & Ingénierie Quantitative à l'ECE Paris — Python, machine learning et modélisation appliqués au pricing et à la gestion du risque de marché.
+  Étudiant en M2 Finance & Ingénierie Quantitative à l'ECE Paris. Python, machine learning et modélisation appliqués au pricing et à la gestion du risque de marché.
 </p>
 
 <p align="center">
@@ -29,7 +29,7 @@ Git · Bloomberg Terminal · Excel avancé · VS Code
 ## Projets
 
 ### [ml-from-scratch](https://github.com/Mathischa/ml-from-scratch)
-Implémentations from-scratch en NumPy — régression linéaire, réseau de neurones feedforward, K-means. Démontre la maîtrise des fondements mathématiques des algorithmes de ML, indépendamment des librairies haut niveau.
+Implémentations from-scratch en NumPy : régression linéaire, réseau de neurones feedforward, K-means. Démontre la maîtrise des fondements mathématiques des algorithmes de ML, indépendamment des librairies haut niveau.
 
 ### [resolution-sudoku-ia](https://github.com/Mathischa/resolution-sudoku-ia)
 Résolveur de Sudoku hybride combinant algorithme génétique (PyGAD) et backtracking. Démontre l'application de méthodes d'optimisation et de recherche heuristique à un problème combinatoire, avec interop Python/C#.
