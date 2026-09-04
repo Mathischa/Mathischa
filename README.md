@@ -28,6 +28,9 @@ Git · Bloomberg Terminal · Excel avancé · VS Code
 
 ## Projets
 
+### [pricer-monte-carlo](https://github.com/Mathischa/pricer-monte-carlo)
+Pricer d'options par simulation Monte Carlo (Black-Scholes), avec réduction de variance (variables antithétiques, variable de contrôle) et vérification par rapport à la formule fermée. Inclut le pricing d'une option asiatique, produit sans formule fermée.
+
 ### [ml-from-scratch](https://github.com/Mathischa/ml-from-scratch)
 Implémentations from-scratch en NumPy : régression linéaire, réseau de neurones feedforward, K-means. Démontre la maîtrise des fondements mathématiques des algorithmes de ML, indépendamment des librairies haut niveau.
 
