@@ -34,8 +34,8 @@ Implémentations from-scratch en NumPy — régression linéaire, réseau de neu
 ### [reentry](https://github.com/Mathischa/reentry)
 Outil qui reconstruit automatiquement le contexte d'un projet de développement pour permettre de le reprendre là où il a été laissé. Démontre une capacité à concevoir un produit complet, de l'idée à l'implémentation (TypeScript).
 
-### [Lien à compléter]
-_Prochain projet à ajouter ici._
+### [resolution-sudoku-ia](https://github.com/Mathischa/resolution-sudoku-ia)
+Résolveur de Sudoku hybride combinant algorithme génétique (PyGAD) et backtracking. Démontre l'application de méthodes d'optimisation et de recherche heuristique à un problème combinatoire, avec interop Python/C#.
 
 ## Contact
 
