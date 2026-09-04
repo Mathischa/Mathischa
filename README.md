@@ -31,9 +31,6 @@ Git · Bloomberg Terminal · Excel avancé · VS Code
 ### [ml-from-scratch](https://github.com/Mathischa/ml-from-scratch)
 Implémentations from-scratch en NumPy — régression linéaire, réseau de neurones feedforward, K-means. Démontre la maîtrise des fondements mathématiques des algorithmes de ML, indépendamment des librairies haut niveau.
 
-### [reentry](https://github.com/Mathischa/reentry)
-Outil qui reconstruit automatiquement le contexte d'un projet de développement pour permettre de le reprendre là où il a été laissé. Démontre une capacité à concevoir un produit complet, de l'idée à l'implémentation (TypeScript).
-
 ### [resolution-sudoku-ia](https://github.com/Mathischa/resolution-sudoku-ia)
 Résolveur de Sudoku hybride combinant algorithme génétique (PyGAD) et backtracking. Démontre l'application de méthodes d'optimisation et de recherche heuristique à un problème combinatoire, avec interop Python/C#.
 
